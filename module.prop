@@ -1,0 +1,7 @@
+id=xiaomi-stylus-buttons
+name=Xiaomi Stylus Buttons
+version=v1
+versionCode=1
+author=Hagb
+description=A simple modules maps two buttons of pen on Xiaomi Pad 6 into stylus buttons instead of PageDown and PageUp
+template=3
