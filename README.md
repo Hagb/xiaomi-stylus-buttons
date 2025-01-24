@@ -4,7 +4,7 @@ A simple Magisk module maps two buttons of pen on Xiaomi Pad 6 into stylus butto
 
 It may also work Xiaomi Pad 6 Pro and Xiaomi Pad 5 series, but they haven't been tested.
 
-[Download](https://github.com/Hagb/xiaomi-stylus-buttons/releases/download/latest/xiaomi-stylus-buttons.zip)
+[Download](https://github.com/Hagb/xiaomi-stylus-buttons/releases/latest/download/xiaomi-stylus-buttons.zip)
 
 ## Tested on
 
